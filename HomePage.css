@@ -47,7 +47,7 @@
 .u-section-2 .u-video-1 {
   height: 500px;
   width: 889px;
-  margin: 28px auto 60px;
+  margin: 39px auto 60px;
 }
 
 .u-section-2 .embed-responsive-1 {
@@ -90,14 +90,9 @@
 
   .u-section-2 .u-video-1 {
     height: 191px;
-    margin-top: 28px;
+    margin-top: 39px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-2 .embed-responsive-1 {
-    left: -39%;
-    top: -39%;
   }
 }
