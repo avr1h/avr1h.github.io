@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 1999-06-30 00:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+For better or worse, the universe has decided to spawn AVR1H on Earth.

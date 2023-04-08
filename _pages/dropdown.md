@@ -1,13 +1,11 @@
 ---
 layout: page
-title: submenus
+title: misc.
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: lightshot project
+      permalink: /prntscr/
     - title: divider
-    - title: projects
-      permalink: /projects/
 ---

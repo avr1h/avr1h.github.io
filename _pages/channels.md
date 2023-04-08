@@ -1,11 +1,11 @@
 ---
 layout: page
-title: videos
-permalink: /projects/
-description: A featured collection of some of my projects.
+title: channels
+permalink: /channels/
+description: A detailed showcase of all available media and channels
 nav: true
-nav_order: 2
-display_categories: [gaming, reviews, commentary, IRL, music, philosophy]
+nav_order: 3
+display_categories: [livestreams, YouTube]
 horizontal: false
 ---
 
