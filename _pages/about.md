@@ -22,3 +22,4 @@ social: true  # includes social icons at the bottom of the page
 <p>In here, you can get updated on my latest upload, read my blog posts, or work on your eye-contact skills with the image on your right.</p>
 <p>Enjoy your stay!</p>
 <br>
+<hr>
