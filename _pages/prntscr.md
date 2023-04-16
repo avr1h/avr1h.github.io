@@ -21,6 +21,7 @@ permalink: /prntscr/
 <p>So much extracted from a random image under a random id... In combination with <a href="https://github.com/luizmlo/py-lightshot-dowloader">lightshot-downloader</a> by luizmlo, we can kick our morally dubious expedition to the maximum! <b>Ladies and Gentlemen, I invite you to join me on a tour in my museum of digital archeology, where I showcase my most intriging of finds and discoveries!</b></p>
 <br>
 <p class="text-center"><b>Remember: you can click on the images to zoom in!</b></p>
+<br>
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/lightshot/av2008.png" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -85,3 +86,5 @@ permalink: /prntscr/
         Oliver can (make) love for... 1h45. How surprising! We now know a little more about how you love and the time you spend on them. Your time is pretty good, better than average. But regardless of whether it is short or long, the most important thing is that you have fun and that the other person in the bed also has fun. And we are sure of that. Impress your friends by sharing the results and comparing yourself to them!" (id: av2004)</div>
     </div>
 </div>
+<br>
+To be updated...
