@@ -19,27 +19,69 @@ permalink: /prntscr/
     Notice the exotic file extensions. A quick search will show that most of these relate to programming, with the .BCS and the .OSAV files having to do with video game map design. Using the system's language and the timestamp of which the files were last updated, we can deduce that we are dealing with a Russian-speaking programmer, most likely working on video game modding, circa 2016.
 </div>
 <p>So much extracted from a random image under a random id... In combination with <a href="https://github.com/luizmlo/py-lightshot-dowloader">lightshot-downloader</a> by luizmlo, we can kick our morally dubious expedition to the maximum! <b>Ladies and Gentlemen, I invite you to join me on a tour in my museum of digital archeology, where I showcase my most intriging of finds and discoveries!</b></p>
-
-
-<div class="row mt-3">
+<br>
+<p class="text-center"><b>Remember: you can click on the images to zoom in!</b></p>
+<div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/lightshot/av2008.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">"The Romanian Orthodox Church spends 20 million euros on the poor - others swear on the Internet." (id: av2008)</div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/lightshot/av2006.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">Miss Abril by DreamAgencie. (id: av2006)</div>
+    </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lightshot/av2055.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">A 1995 Mustang GT in "Fair" Condition. (id: av2055)</div>
+    </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lightshot/retard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">From Protuguese: "This is the model of our machine." Please take note of the interesting ID. (id: retard)</div>
+    </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lightshot/valik.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">A tribute to one of the people who helped pioneer the Digital Archeology movement. (id: Valik)</div>
+    </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lightshot/lover.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">An interesting case of a "matching ID". (id: lover)</div>
+    </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lightshot/av2014.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">The fastest internet in France. (id: av2014)</div>
     </div>
 </div>
 
-The rest of the images in this post are all zoomable, arranged into different mini-galleries.
-
-<div class="row mt-3">
+<div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/lightshot/av2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">A heated argument in HearthStone. (id: av2022)</div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/lightshot/av2031.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">The "Binding of Isaac" map seed. (id: av2031)</div>
     </div>
+</div>
+<div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/lightshot/av2039.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">"ARE they down? You tell me!" — The Curious Error Message. (id: av2039)</div>
+    </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lightshot/av2004.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">What at first may seem like a naughty ad, is actually a Danish buzzfeed-esque online quiz! Translated from Danish: "Oliver is legendary!
+        Oliver can (make) love for... 1h45. How surprising! We now know a little more about how you love and the time you spend on them. Your time is pretty good, better than average. But regardless of whether it is short or long, the most important thing is that you have fun and that the other person in the bed also has fun. And we are sure of that. Impress your friends by sharing the results and comparing yourself to them!" (id: av2004)</div>
     </div>
 </div>
