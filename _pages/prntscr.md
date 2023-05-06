@@ -87,4 +87,4 @@ permalink: /prntscr/
     </div>
 </div>
 <br>
-To be updated...
+<p>Keep following my curated museum over at the periodical <a href="https://avr1h.com/blog/tag/digital-archeology">blog posts</a>!</p>
