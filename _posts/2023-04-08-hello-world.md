@@ -3,8 +3,8 @@ layout: post
 title:  Hello World!
 date:   2023-04-07 00:14:16
 description: The start of a new arc
-tags: website update
-categories: news
+tags: news
+categories: website updates
 ---
   <h2>Hello!</h2>
   <p>This will be the website that shall serve me and my cause diligently.</p>
