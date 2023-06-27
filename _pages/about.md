@@ -7,7 +7,7 @@ subtitle: I want to have a random string shown here every refresh
 profile:
   align: right
   image: me.png
-  address: AVR1H with a Joeyy-like filter.
+  address: An assumed image of AVR1H (Sources are disputed, credability may vary).
   image_circular: false # crops the image to make it circular
 
 
