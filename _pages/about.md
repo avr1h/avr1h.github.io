@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: I want to have a random string shown here every refresh
 
 <p id="randomText">This is some random text.</p>
 <script>
