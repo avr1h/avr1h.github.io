@@ -3,7 +3,25 @@ layout: about
 title: about
 permalink: /
 subtitle: I want to have a random string shown here every refresh
+<p id="randomText">This is some random text.</p>
+<script>
+  // An array of random text options
+  var randomTextOptions = [
+    "Random text option 1",
+    "Random text option 2",
+    "Random text option 3",
+    // Add more options as needed
+  ];
 
+  // Function to choose a random option from the array
+  function getRandomText() {
+    var randomIndex = Math.floor(Math.random() * randomTextOptions.length);
+    return randomTextOptions[randomIndex];
+  }
+
+  // Update the content of the <p> element with a random option
+  document.getElementById("randomText").textContent = getRandomText();
+</script>
 profile:
   align: right
   image: me.png
