@@ -15,7 +15,6 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<br>
 <p>Welcome to my website.</p>
 <p>Upon entering my website, you might ask yourself: "How come you have a website? How come <b>I</b> don't have a website?"</p>
 <p>A very valid question indeed. I for one believe that every person should have a website. In an age when vanity is a virtue, and people are rewarded for their narcissistic traits, it is only elementary that the next step in your digital footprint would be to have a whole-ass website dedicated to you and to you alone.</p>
