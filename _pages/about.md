@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: me.png
-  address: An assumed image of AVR1H (Sources are disputed, credability may vary).
+  address: An assumed image of AVR1H (Sources are disputed, credability may vary.)
   image_circular: false # crops the image to make it circular
 
 
