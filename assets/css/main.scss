@@ -13,3 +13,7 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+.splash-message {
+  font-style: italic;
+  color: #2f9c9a;
+}
