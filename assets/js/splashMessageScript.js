@@ -48,7 +48,11 @@ document.addEventListener("DOMContentLoaded", function() {
     "We Suffer More Often in Imagination Than in Reality.",
     "WaWaWeeWa! Very Nice!",
     "Before You Embark on a Journey of Revenge, Dig Two Graves.",
-    "War, War Never Changes."
+    "War, War Never Changes.",
+    "Don't Worry, I'm Sure the Label on the Bottle Was Just a Suggestion.",
+    "My Political Opinion? Depends on Whom I'm Trolling.",
+    "And ultimately, who gives a fuck anyway?",
+    "Every Girl Is a 10 With Clown Make Up On."
   ];
   const randomMessage = splashMessages[Math.floor(Math.random() * splashMessages.length)];
   document.getElementById("randomSplashMessage").textContent = randomMessage;
