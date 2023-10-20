@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function() {
   const splashMessages = [
     "Unbelievably Jewish!",
-    "Message 2",
-    "Message 3",
+    "meirl",
+    "Me, But Unironically.",
     "First Time?",
     "Here King, You Dropped This 👑",
     "Philately Enthusiast.",
