@@ -12,7 +12,8 @@ document.addEventListener("DOMContentLoaded", function() {
     "Chaotically Neutral to His Detriment.",
     "¯\_(ツ)_/¯",
     "My Enemies Are Plenty, My Equals Are Non.",
-    "Does He Ever Shut Up?"
+    "Does He Ever Shut Up?",
+    "Oxford Comma Elitist"
   ];
   const randomMessage = splashMessages[Math.floor(Math.random() * splashMessages.length)];
   document.getElementById("randomSplashMessage").textContent = randomMessage;
