@@ -7,5 +7,7 @@ dropdown: true
 children: 
     - title: lightshot project
       permalink: /prntscr/
-    #- title: divider
+    - title: divider
+    - title: street photography
+      permalink: /StreetPhoto/
 ---
