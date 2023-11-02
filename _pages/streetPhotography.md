@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Street Photography
-description: Real poeple. Non of that TikTok nonsesnse.
+description: Real poeple. No TikTok nonsesnse.
 permalink: /StreetPhoto/
 ---
-<p>"Exuse me, I am a street photographer. You look very pretty, can I take your picture?" </p><br>
+<p>"Exuse me, I am a street photographer. You look very pretty, can I take your picture?" </p>
 <p>- Tiktoker, documenting the most fake proccess imaginable and procceeds to sacriligiously dub it as "Street Photography."</p>
 <p>Street photography has nothing to do with any of that. It's an art. You don't "ask for permission" to do art, which by the way, might just be the most idiotic thing an imbecile subject may spout. As long as I don't make a profit from these photos,I have every right in the world to take a photo in a public space.
 As far as I'm conserned, I snapped a photo and you just happened to be there. If something, I should harrass you for ruining MY picture with YOUR ugly mug!</p>
