@@ -17,5 +17,5 @@ $(document).ready(function() {
     var randomImage = images[Math.floor(Math.random() * images.length)];
     
     // Replace the placeholder image with the randomly selected image
-    $("img[src='assets/img/me0.png']").attr("src", "assets/img/" + randomImage);
+    $("img[src='assets/img/me1.png']").attr("src", "assets/img/" + randomImage);
 });
