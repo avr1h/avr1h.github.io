@@ -9,3 +9,13 @@ $(document).ready(function() {
     });
     $('a').removeClass('waves-effect waves-light');
 });
+$(document).ready(function() {
+    // Array of images
+    var images = ["me0.png", "me1.jpg", "me2.jpg", "me3.jpg"];
+    
+    // Randomly select an image from the array
+    var randomImage = images[Math.floor(Math.random() * images.length)];
+    
+    // Replace the placeholder image with the randomly selected image
+    $("img[src='assets/img/me0.png']").attr("src", "assets/img/" + randomImage);
+});
