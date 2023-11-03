@@ -83,7 +83,7 @@ $(document).ready(function() {
     // Replace the placeholder image with the randomly selected image
     var imgElement = $("img[src='/assets/img/me1.png']");
     console.log("Selected image element:", imgElement);
-    imgElement.attr("src", "/assets/img/" + randomImage);
+    imgElement.attr("src", "/assets/img/" + randomImage + "?v=" + new Date().getTime());
     console.log("Updated image src:", imgElement.attr("src"));
     console.log("Random image selected:", randomImage);
 });
