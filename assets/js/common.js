@@ -9,7 +9,7 @@ $(document).ready(function() {
     });
     $('a').removeClass('waves-effect waves-light');
 });
-$(document).ready(function() {
+/*$(document).ready(function() {
     // Array of images
     var images = ["me0.png", "me1.png", "me2.png", "me3.png"];
     
@@ -18,4 +18,4 @@ $(document).ready(function() {
     
     // Replace the placeholder image with the randomly selected image
     $("img[src='assets/img/me0.png']").attr("src", "assets/img/" + randomImage);
-});
+});*/
