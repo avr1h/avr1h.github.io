@@ -11,7 +11,7 @@ $(document).ready(function() {
 });
 $(document).ready(function() {
     // Array of images
-    var images = ["me0.png", "me1.jpg", "me2.jpg", "me3.jpg"];
+    var images = ["me0.png", "me1.png", "me2.png", "me3.png"];
     
     // Randomly select an image from the array
     var randomImage = images[Math.floor(Math.random() * images.length)];
