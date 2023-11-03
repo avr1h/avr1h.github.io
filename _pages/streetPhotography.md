@@ -9,7 +9,6 @@ permalink: /streetPhoto/
 > "Exuse me, I am a street photographer. 
 > You look very pretty, 
 > can I take your picture?"
-
 <p>- Tiktoker, documenting the most fake process imaginable and then proceeds to sacrilegiously dub it as "Street Photography."</p>
 <p>Street photography has nothing to do with any of that. It's an art. You don't "ask for permission" to do art. Speaking of which, asking permission might just be the most misunderstood concept since quantom physics. As long as I don't make any profit from these photos, I have every right in the world to take a photo in a public space.</p>
 <p>As far as I'm conserned, I snapped a photo and you just happened to be there. If something, I should harrass you for ruining <em>MY</em> picture with <em>YOUR</em> ugly mug!</p>
