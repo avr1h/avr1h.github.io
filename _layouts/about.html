@@ -72,7 +72,7 @@ layout: default
 
 </div>
 <script>
-  $(document).ready(function() {
+$(document).ready(function() {
     console.log("Script is running");
     // Array of images
     var images = ["me0.png", "me1.png", "me2.png", "me3.png"];
@@ -81,7 +81,10 @@ layout: default
     var randomImage = images[Math.floor(Math.random() * images.length)];
     
     // Replace the placeholder image with the randomly selected image
-    $("img[src='/assets/img/me1.png']").attr("src", "/assets/img/" + randomImage);
+    var imgElement = $("img[src='/assets/img/me1.png']");
+    console.log("Selected image element:", imgElement);
+    imgElement.attr("src", "/assets/img/" + randomImage);
+    console.log("Updated image src:", imgElement.attr("src"));
     console.log("Random image selected:", randomImage);
-  });
+});
   </script>
