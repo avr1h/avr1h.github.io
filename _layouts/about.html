@@ -2,18 +2,7 @@
 layout: default
 ---
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-  $(document).ready(function() {
-    // Array of images
-    var images = ["me0.png", "me1.png", "me2.png", "me3.png"];
-    
-    // Randomly select an image from the array
-    var randomImage = images[Math.floor(Math.random() * images.length)];
-    
-    // Replace the placeholder image with the randomly selected image
-    $("img[src='assets/img/me1.png']").attr("src", "assets/img/" + randomImage);
-  });
-  </script>
+
 <script src="/assets/js/splashMessageScript.js"></script>
 <!-- about.html -->
       <div class="post">
@@ -82,3 +71,15 @@ layout: default
         </article>
 
 </div>
+<script>
+  $(document).ready(function() {
+    // Array of images
+    var images = ["me0.png", "me1.png", "me2.png", "me3.png"];
+    
+    // Randomly select an image from the array
+    var randomImage = images[Math.floor(Math.random() * images.length)];
+    
+    // Replace the placeholder image with the randomly selected image
+    $("img[src='assets/img/me1.png']").attr("src", "assets/img/" + randomImage);
+  });
+  </script>
