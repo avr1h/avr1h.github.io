@@ -9,5 +9,5 @@ children:
       permalink: /prntscr/
     - title: divider
     - title: street photography
-      permalink: /StreetPhoto/
+      permalink: /streetPhoto/
 ---
