@@ -72,19 +72,23 @@ layout: default
 
 </div>
 <script>
-$(document).ready(function() {
-    console.log("Script is running");
-    // Array of images
-    var images = ["me0.png", "me1.png", "me2.png", "me3.png"];
-    
-    // Randomly select an image from the array
-    var randomImage = images[Math.floor(Math.random() * images.length)];
-    
-    // Replace the placeholder image with the randomly selected image
-    var imgElement = $("img[src='/assets/img/me-loading.png']");
-    console.log("Selected image element:", imgElement);
-    imgElement.attr("src", "/assets/img/" + randomImage + "?v=" + new Date().getTime());
-    console.log("Updated image src:", imgElement.attr("src"));
-    console.log("Random image selected:", randomImage);
-});
+  $(document).ready(function() {
+      console.log("Script is running");
+      // Array of images
+      var images = ["me0.png", "me1.png", "me2.png", "me3.png"];
+      
+      // Randomly select an image from the array
+      var randomImage = images[Math.floor(Math.random() * images.length)];
+      
+      // Delay the execution of the image-changing logic by 2 seconds
+      setTimeout(function() {
+          // Replace the placeholder image with the randomly selected image
+          var imgElement = $("img[src='/assets/img/me-loading.png']");
+          console.log("Selected image element:", imgElement);
+      
+          imgElement.attr("src", "/assets/img/" + randomImage + "?v=" + new Date().getTime());
+          console.log("Updated image src:", imgElement.attr("src"));
+          console.log("Random image selected:", randomImage);
+      }, 2000);
+  });
   </script>
