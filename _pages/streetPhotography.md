@@ -22,6 +22,6 @@ permalink: /streetPhoto/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkIWW6vwrvM?si=pxkNNZvxsiQ6wlay" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p>Ugly, vulgar, and in your face. If Tommy Wisecup, bless his heart, would be the goody-two-shoes of street photography, Bruce Gilden would be on the exact opposite side of that spectrum.</p>
-<p>Nonetheless, both are two sides of the same coin. Two examples of a very wide array of an art. </br> I obviously can't pretend to have anything near the amount of skill level of the guys featured here. Heck, all of the photos here (unless mentioned otherwise) were taken on my humble Samsung Galaxy.</p>
+<p>Nonetheless, both are two sides of the same coin. Two examples of a very wide array of an art. </br> I obviously can't pretend to have anything near the amount of skill these guys have. Heck, all of the photos here (unless mentioned otherwise) were taken on my humble Samsung Galaxy.</p>
 <p>Anyways, enough yapping, here are some highlights of my 'work'. You will be able to find these and many more, all with annotations and backstories, in the subsequent <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.</p>
 
