@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Street Photography - An Introduction:
+title: Street Photography - An Introduction
 description: To those who may not quite know what it is...
 permalink: /streetPhoto/
 ---
