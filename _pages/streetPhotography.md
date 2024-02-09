@@ -12,7 +12,7 @@ permalink: /streetPhoto/
 <p>- A TikToker, whilst documenting the most fake process imaginable and then proceeding to sacrilegiously dub it as "Street Photography."</p>
 <p>Street photography has nothing to do with any of that. It's an art. You don't "ask for permission" to do art. Speaking of which, asking permission might just be the most misunderstood concept since quantom physics. As long as I don't make any profit from these photos, or plan to do anything malicious with 'em, I have every right in the world to take a photo in a public space.</p>
 <p>As far as I'm concerned, I snapped a photo and you just happened to be there. If something, I should harrass you for ruining <em>MY</em> picture with <em>YOUR</em> ugly mug!</p>
-<p>But I'm getting carried away. In reality, it's not that deep. And instead of reading my whining you should just watch this video:</p>
+<p>But I'm getting carried away. In reality, it's not that deep. Instead of reading my whining, you should just watch this video:</p>
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjuP527Xt2Q?si=09pH8diJYeJvZg7T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
