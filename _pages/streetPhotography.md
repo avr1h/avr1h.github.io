@@ -6,7 +6,7 @@ permalink: /streetPhoto/
 ---
 
 
-> Exuse me, I am a street photographer. 
+> Excuse me, I am a street photographer. 
 > You look very pretty, 
 > may I take your picture?
 <p>- A TikToker, whilst documenting the most fake process imaginable and then proceeding to sacrilegiously dub it as "Street Photography."</p>
