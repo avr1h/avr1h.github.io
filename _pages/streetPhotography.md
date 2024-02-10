@@ -35,9 +35,8 @@ permalink: /streetPhoto/
     </div>
 </div>
 <div class="caption">
-    Starting with what could be the best photo I ever took. This is part of "Baba of The Vatican" Series.
+    Starting with what could possibly be the best photo I ever took. This is part of "Baba of The Vatican" Series.
 </div>
-
 
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,6 +44,7 @@ permalink: /streetPhoto/
         <div class="caption">Romantic Cops</div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lightshot/couger.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/lightshot/cougar.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">The Cougar</div>
     </div>
+
