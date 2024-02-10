@@ -45,4 +45,22 @@ permalink: /streetPhoto/
         {% include figure.html path="assets/img/highlight/cougar.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">The Cougar</div>
     </div>
-
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/emperor.jpg" class="img-fluid z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Emperor's Mourn
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/badnews.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        <div class="caption">The Bad News</div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/cops.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        <div class="caption">Cops</div>
+    </div>
+</div>
