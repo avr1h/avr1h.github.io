@@ -70,7 +70,7 @@ permalink: /streetPhoto/
         <div class="caption">Barefoot Ambassadors</div>
     </div>
     <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
-        {% include figure.html path="assets/img/highlight/salamanca.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/highlight/Salamanca.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">The Salamanca Cousins (Gender Swapped)</div>
     </div>
 </div>
@@ -83,4 +83,28 @@ permalink: /streetPhoto/
         {% include figure.html path="assets/img/highlight/inmotion.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">In Motion</div>
     </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 65%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/girl.jpg" class="img-fluid z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Her
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 65%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/lesson.jpg" class="img-fluid z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The Lesson
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 60%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/argument.jpg" class="img-fluid z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The Argument
 </div>
