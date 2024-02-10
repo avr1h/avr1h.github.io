@@ -30,7 +30,7 @@ permalink: /streetPhoto/
 
 
 <div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
         {% include figure.html path="assets/img/highlight/baba.jpg" class="img-fluid z-depth-1" zoomable=true %}
     </div>
 </div>
