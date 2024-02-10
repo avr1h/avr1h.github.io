@@ -26,12 +26,25 @@ permalink: /streetPhoto/
 <p>Anyways, enough yapping, here are some highlights of my 'work'. You will be able to find these and many more, all with annotations and backstories, in the subsequent <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.</p>
 
 
-{% include figure.html path="assets/img/highlight/baba.jpg" class="img-fluid z-depth-1" zoomable=true %}
-Starting with what could be the best photo I ever took. This is part of "Baba of The Vatican" Series.
 
 
-{% include figure.html path="assets/img/highlight/RomCom.jpg" class="img-fluid z-depth-1" zoomable=true %}
-Romantic Cops
-{% include figure.html path="assets/img/lightshot/couger.jpg" class="img-fluid z-depth-1" zoomable=true %}
-The Cougar
 
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/highlight/baba.jpg" class="img-fluid z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Starting with what could be the best photo I ever took. This is part of "Baba of The Vatican" Series.
+</div>
+
+
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/highlight/RomCom.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        <div class="caption">Romantic Cops</div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lightshot/couger.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        <div class="caption">The Cougar</div>
+    </div>
