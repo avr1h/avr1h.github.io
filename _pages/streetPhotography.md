@@ -37,7 +37,7 @@ permalink: /streetPhoto/
 </div>
 
 <div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 35%; margin: auto;">
         {% include figure.html path="assets/img/highlight/RomCom.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">Romantic Cops</div>
     </div>
@@ -62,5 +62,15 @@ permalink: /streetPhoto/
     <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
         {% include figure.html path="assets/img/highlight/cops.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">Cops</div>
+    </div>
+</div>
+<div class="row mt-3 text-center">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/africans.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        <div class="caption">Barefoot Ambassadors</div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/salamanca.jpg" class="img-fluid z-depth-1" zoomable=true %}
+        <div class="caption">The Salamanca Cousins (Gender Swapped)</div>
     </div>
 </div>
