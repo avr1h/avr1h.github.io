@@ -47,7 +47,7 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
 footer_fixed: false
 
 # Dimensions
@@ -97,7 +97,7 @@ unsplash_id: # your unsplash id
 instagram_id: avr1h
 facebook_id: 
 youtube_id: 
-discord_id: AVR#1337
+discord_id: avr1h
 
 contact_note: >
   Stay in touch...
@@ -247,7 +247,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['news', 'videos', 'projects', 'digital archeology'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['news', 'videos', 'projects', 'street photography','digital archeology'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
