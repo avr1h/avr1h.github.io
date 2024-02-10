@@ -25,9 +25,7 @@ permalink: /streetPhoto/
 <p>Nonetheless, both are two sides of the same coin. Two examples of a very wide array of an art. <br>I obviously can't pretend to have anything near the amount of skill these guys have. Heck, all of the photos here (unless mentioned otherwise) were taken on my humble Samsung Galaxy.</p>
 <p>Anyways, enough yapping, here are some highlights of my 'work'. You will be able to find these and many more, all with annotations and backstories, in the subsequent <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.</p>
 
-
-
-
+<p class="text-center"><b>Remember: you can click on the images to zoom in!</b></p>
 
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
@@ -39,12 +37,12 @@ permalink: /streetPhoto/
 </div>
 
 <div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
         {% include figure.html path="assets/img/highlight/RomCom.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">Romantic Cops</div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lightshot/cougar.jpg" class="img-fluid z-depth-1" zoomable=true %}
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+        {% include figure.html path="assets/img/highlight/cougar.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">The Cougar</div>
     </div>
 
