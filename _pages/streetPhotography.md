@@ -28,7 +28,7 @@ permalink: /streetPhoto/
 <p class="text-center"><b>Remember: you can click on the images to zoom in!</b></p>
 
 <div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 65%; margin: auto;">
         {% include figure.html path="assets/img/highlight/baba.jpg" class="img-fluid z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -47,7 +47,7 @@ permalink: /streetPhoto/
     </div>
 </div>
 <div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 65%; margin: auto;">
         {% include figure.html path="assets/img/highlight/emperor.jpg" class="img-fluid z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -55,11 +55,11 @@ permalink: /streetPhoto/
     Emperor's Mourn
 </div>
 <div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 60%; margin: auto;">
         {% include figure.html path="assets/img/highlight/badnews.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">The Bad News</div>
     </div>
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 50%; margin: auto;">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 60%; margin: auto;">
         {% include figure.html path="assets/img/highlight/cops.jpg" class="img-fluid z-depth-1" zoomable=true %}
         <div class="caption">Cops</div>
     </div>
