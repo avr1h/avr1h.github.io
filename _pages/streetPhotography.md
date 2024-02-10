@@ -25,3 +25,13 @@ permalink: /streetPhoto/
 <p>Nonetheless, both are two sides of the same coin. Two examples of a very wide array of an art. <br>I obviously can't pretend to have anything near the amount of skill these guys have. Heck, all of the photos here (unless mentioned otherwise) were taken on my humble Samsung Galaxy.</p>
 <p>Anyways, enough yapping, here are some highlights of my 'work'. You will be able to find these and many more, all with annotations and backstories, in the subsequent <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.</p>
 
+
+{% include figure.html path="assets/img/highlight/baba.jpg" class="img-fluid z-depth-1" zoomable=true %}
+Starting with what could be the best photo I ever took. This is part of "Baba of The Vatican" Series.
+
+
+{% include figure.html path="assets/img/highlight/RomCom.jpg" class="img-fluid z-depth-1" zoomable=true %}
+Romantic Cops
+{% include figure.html path="assets/img/lightshot/couger.jpg" class="img-fluid z-depth-1" zoomable=true %}
+The Cougar
+
