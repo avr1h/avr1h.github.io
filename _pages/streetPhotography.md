@@ -109,4 +109,4 @@ permalink: /streetPhoto/
     The Argument
 </div>
 <br>
-Expect to see this and more over at the appropriately tagged <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.</p>
+Expect to see this and more over at the appropriately tagged <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.
