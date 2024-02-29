@@ -3,7 +3,7 @@ group :jekyll_plugins do
 
 
     gem 'listen', '~> 3.7'
-    #gem 'classifier-reborn'
+    gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
