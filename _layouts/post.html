@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
+{% comment %}
 
 <!-- _layouts/post.html -->
 {%- assign year = page.date | date: "%Y" -%}
 {%- assign tags = page.tags | join: "" -%}
 {%- assign categories = page.categories | join: "" -%}
+{% endcomment %}
 
 {% if page._styles %}
 <!-- Page/Post style -->
@@ -13,7 +15,6 @@ layout: default
   {{ page._styles }}
 </style>
 {% endif %}
-{% comment %}
 <div class="post">
 
   <header class="post-header">
@@ -39,7 +40,6 @@ layout: default
 
     </p>
   </header>
-  {% comment %}
 
 
   <article class="post-content">
@@ -60,4 +60,3 @@ layout: default
   {%- endif -%}
 
 </div>
-{% endcomment %}
