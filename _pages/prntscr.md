@@ -4,7 +4,7 @@ title: Digital Archeology
 description: The fossil ground of the internet.
 permalink: /digital-archeology/
 ---
-**_NOTE:_**  This page is about lightshot/prntscr as a method of digital archeology excavation. For GeoCities excavation, please visit <a href="https://avr1h.com/blog/2024/dg1/">the first blog post</a> on the matter. 
+>**_NOTE:_**  This page is about lightshot/prntscr as a method of digital archeology excavation. For GeoCities excavation, please visit <a href="https://avr1h.com/blog/2024/dg1/">the first blog post</a> on the matter. 
 <p>Did you know that every screenshot you take and upload using <a href="https://app.prntscr.com/en/index.html">lightshot</a> is kept on their unprotected, completely accessible database?</p>
 <p><a href="https://www.wired.co.uk/article/lightshot-chrome-screenshot-app">"A breach of privacy!"</a> you might cry out. But honestly, what where you expecting from a service that has "index.html" as its homepage url extension?</p>
 <p>Roasts aside, although valid, we can take advantage of this exploit to take a somewhat immoral peek into the daily lives of normal, every-day human beings. Just like you and I, I assume. A sort of digital street photography, if you will. Some of these images date as old as over a decade.</p>
