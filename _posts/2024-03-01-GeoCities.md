@@ -7,9 +7,6 @@ tags:
   - digital-archeology
   - GeoCities
 ---
-On the eve of the 2nd of March, 2024, a friend and I have stumbled upon a relic of the past of monumental proportion. An archeological finding of a never before seen magnitude of quality, volume, and sheer authenticity.
-
-Before you are images who have lain dormant for decades before having eyes being set upon them once more. Enter, Babynha2000: The Girl who pre-invented Instagram.
 
 ## GeoCities
 Before I can explain how one might excavate from GeoCities, I, and by I, I mean chat-gpt, should explain what it is, for those of you who aren't in the know:
