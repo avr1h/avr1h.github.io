@@ -2,12 +2,10 @@
 layout: default
 ---
 
-<body class="{% if page.custom_class %}{{ page.custom_class }}{% endif %}">
 <!-- _layouts/post.html -->
 {%- assign year = page.date | date: "%Y" -%}
 {%- assign tags = page.tags | join: "" -%}
 {%- assign categories = page.categories | join: "" -%}
-</body>
 
 {% if page._styles %}
 <!-- Page/Post style -->
@@ -41,11 +39,11 @@ layout: default
     </p>
   </header>
 
-  <article class="post-content {{ page.custom_class }}">
+  <article class="post-content">
     {{ content }}
   </article>
-  
   {% comment %}
+
   {%- if site.related_blog_posts.enabled -%}
     {%- if page.related_posts == null or page.related_posts -%}
       {% include related_posts.html %}

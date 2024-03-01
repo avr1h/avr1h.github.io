@@ -17,15 +17,3 @@ $max-content-width: {{ site.max_width }};
   font-style: italic;
   color: #24909d;
 }
-
-.unique-background {
-  background: url('/assets/img/GeoCities/Babyhna/prbabynha4.jpg') repeat !important;
-  margin: 0;
-  padding: 0;
-}
-
-body.unique-background .wrapper,
-body.unique-background .content {
-  padding: 0;
-  margin: 0;
-}
