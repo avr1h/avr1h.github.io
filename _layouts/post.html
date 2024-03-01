@@ -39,11 +39,11 @@ layout: default
     </p>
   </header>
 
-  <article class="post-content">
+  <article class="post-content {{ page.custom_class }}">
     {{ content }}
   </article>
+  
   {% comment %}
-
   {%- if site.related_blog_posts.enabled -%}
     {%- if page.related_posts == null or page.related_posts -%}
       {% include related_posts.html %}
