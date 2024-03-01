@@ -38,6 +38,8 @@ permalink: /digital-archeology/
         {% include figure.html path="assets/img/lightshot/av2055.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">A 1995 Mustang GT in "Fair" Condition. (id: av2055)</div>
     </div>
+</div>
+<div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/lightshot/retard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">From Protuguese: "This is the model of our machine." Please take note of the interesting ID. (id: retard)</div>
@@ -46,8 +48,6 @@ permalink: /digital-archeology/
         {% include figure.html path="assets/img/lightshot/valik.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">A tribute to one of the people who helped pioneer the Digital Archeology movement. (id: Valik)</div>
     </div>
-</div>
-<div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/lightshot/lover.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">An interesting case of a "matching ID". (id: lover)</div>
