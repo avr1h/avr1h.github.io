@@ -6,8 +6,8 @@ nav_order: 6
 dropdown: true
 children: 
     - title: street photography
-      permalink: /streetPhoto/
+      permalink: /street/
     - title: divider
     - title: lightshot project
-      permalink: /prntscr/
+      permalink: /archeology/
 ---
