@@ -6,7 +6,7 @@ permalink: /digital-archeology/
 ---
 > ##### NOTE
 >
-> This page is about lightshot/prntscr as a method of digital archeology excavation. For GeoCities > excavation, please visit <a href="https://avr1h.com/blog/2024/dg1/">the first blog post</a> on the matter. 
+> This page is about lightshot/prntscr as a method of digital archeology excavation. For GeoCities > excavation, please visit <a href="https://avr1h.com/blog/2024/dg1/">the first blog post</a> on >the matter. 
 {: .block-tip }
 
 <p>Did you know that every screenshot you take and upload using <a href="https://app.prntscr.com/en/index.html">lightshot</a> is kept on their unprotected, completely accessible database?</p>
