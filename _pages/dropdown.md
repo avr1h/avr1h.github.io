@@ -8,6 +8,6 @@ children:
     - title: street photography
       permalink: /street-photography/
     - title: divider
-    - title: lightshot project
+    - title: digital archeology
       permalink: /digital-archeology/
 ---
