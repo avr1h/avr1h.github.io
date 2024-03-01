@@ -20,7 +20,7 @@ Yahoo! acquired GeoCities in 1999, but due to declining usage and the shift towa
 Thanks chat-gpt! I would like to point your attention to that final line: "Some efforts have been made to archive and preserve the content of GeoCities websites for historical and cultural preservation."
 This is where our journey begins. Using services such as [GifCities](https://gifcities.org/) by [Internet Archive](https://archive.org) and [OoCities](https://www.oocities.org/#gsc.tab=0), amongst others, we can access this ancient part of internet history.
 
-I would just like to comment about the nature of this excavation method. Most of these archives, such as wayback machine for example, are broken, slow, and incomplete. Which means links that lead no where and image elements with no files attached to them.
+I would just like to comment on the nature of this excavation method. Most of these archives, such as wayback machine for example, are broken, slow, and incomplete. Which means links that lead no where and image elements with no files attached to them.
 I find this all the more charming. I equate this to actual archeology, where a whole skeleton is reconstructed from a finding of several bones. Or a piece of pottery from a few pieces of broken shards.
 You get the picture. Every dead end makes an actual finding even more exciting. Makes you think about what's out there that we don't know about, or rather how little we do know, both digitally and irl.
 /yap-sesh over.
