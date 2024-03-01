@@ -2,7 +2,7 @@
 layout: page
 title: Digital Archeology
 description: The fossil ground of the internet.
-permalink: /archeology/
+permalink: /digital-archeology/
 ---
 <p>Did you know that every screenshot you take and upload using <a href="https://app.prntscr.com/en/index.html">lightshot</a> is kept on their unprotected, completely accessible database?</p>
 <p><a href="https://www.wired.co.uk/article/lightshot-chrome-screenshot-app">"A breach of privacy!"</a> you might cry out. But honestly, what where you expecting from a service that has "index.html" as its homepage url extension?</p>
