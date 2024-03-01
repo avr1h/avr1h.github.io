@@ -33,5 +33,5 @@ Recently I have encountered this touching meme:
     </div>
 </div>
 You'll notice I'll put a lot of emphasis on aesthetically pleasing pictures in these blog posts, but you need to remember that more importantly, behind each and every picture there is a story.
-The likelyhood of us ever knowing that story is slim to non. And yet you could still feel that dimension of history in them.
+The likelyhood of us ever knowing that story is slim to non. And yet, you could still feel that dimension of history in them.
 <a href="https://avr1h.com/digital-archeology/">The Lightshot Project</a> scrapes images from circa mid-2010's. Geocities predates these by up to **two decades**. In internet terms, that's more than archaic. If only these images could talk, the stories they would tell...
