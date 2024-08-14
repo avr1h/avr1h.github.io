@@ -42,7 +42,7 @@ permalink: /street-photography/
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0" style="max-width: 40%; margin: auto;">
         {% include figure.html path="assets/img/highlight/RomCom.jpg" class="img-fluid z-depth-1" zoomable=true %}
-        <div class="caption">Romantic Cops</div>
+        <div class="caption">RomCom Cops</div>
     </div>
     <div class="col-sm mt-3 mt-md-0" style="max-width: 45%; margin: auto;">
         {% include figure.html path="assets/img/highlight/cougar.jpg" class="img-fluid z-depth-1" zoomable=true %}
