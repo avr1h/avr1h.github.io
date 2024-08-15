@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Street Photography - An Introduction
-permalink: /street-photography/
+layout: post
+title:  Street Photography - An Introduction
+date:   2023-05-14
+description: photos
+tags: street-photography
 ---
 
 
