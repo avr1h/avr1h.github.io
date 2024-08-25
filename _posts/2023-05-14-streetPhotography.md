@@ -3,6 +3,7 @@ layout: post
 title:  Street Photography - An Introduction
 date:   2023-05-14
 description: photos
+permalink: /street_photography_intro/
 tags: street-photography
 ---
 
