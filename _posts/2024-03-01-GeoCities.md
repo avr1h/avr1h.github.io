@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Archeology - intro to GeoCities
-date: 2024-0-01
+date: 2024-03-01
 permalink: /geocities_intro/
 description: GeoCities - An Era Bygone.
 tags:
