@@ -31,6 +31,20 @@ tags: street-photography
 <p>Nonetheless, both are two sides of the same coin. Two examples of a very wide array of an art. <br>I obviously can't pretend to have anything near the amount of skill these guys have. Heck, all of the photos here (unless mentioned otherwise) were taken on my humble Samsung Galaxy.</p>
 <p>Anyways, enough yapping, here are some highlights of my 'work'. You will be able to find these and many more, all with annotations and backstories, in the subsequent <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.</p>
 
+### Notation System / The Legend
+<p>A quick note on a system that will accompany all posts of this sort, not this one, incidently. I do not wish this to be a showcase of my best moments, but a documentation of all my moments. <b>A journal, not a gallery.</b></p>
+<p>Then, how do we diffrentiate between the good and the bad? I decided to appropriate the tried and tested chess notation:</p>
+<br>
+<b>!!</b> - A genius photo. <br>
+<b>!</b> - A good photo. <br>
+<b>!?</b> - An interesting photo that is thought-provoking.<br>
+<b>?</b> - A lacking photo that leaves something to be desired.<br>
+<b>??</b> - A bad picture.<br>
+No notation usually means I find the picture to be average or OK at best. A fate arguabely worse than being a "bad picture." <br>
+
+<p> Needless to say, these are all my opinion, and may change with time. I urge anyone who disagrees to reach out and share their opinion. With out further ado, here are some examples of my work. <p>
+<br>
+
 <p class="text-center"><b>Remember: you can click on the images to zoom in!</b></p>
 
 <div class="row mt-3 text-center">
@@ -116,3 +130,4 @@ tags: street-photography
 </div>
 <br>
 Expect to see this and more over at the appropriately tagged <a href="https://avr1h.com/blog/tag/street-photography">blog posts</a>.
+
