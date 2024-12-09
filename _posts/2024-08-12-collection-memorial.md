@@ -10,7 +10,7 @@ tags: news
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WChTqYlDjtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
+<br>
 ### When Dreams Die
 
 They say that as adults, all we do is chase some unrealized childhood dream. Well, I didn’t come from much. In fact, I came from nothing. My Doofenshmirtzian childhood never allowed me to have much. So, it goes without saying that the moment I was able to afford a coveted in-game item, it was only a matter of time before I got it.
