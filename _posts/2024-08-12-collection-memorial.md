@@ -164,9 +164,9 @@ What's next? I'll be keeping the M9 and the Karambit as play-skins, and naming t
 Those of you who are arithmetically inclined may notice that the sum of the items in question is suspiciously similar to the price of a pair of frames made by a luxury maker. A coincidence I shall not comment on at this moment, I’m afraid. (← A pathetic attempt at a comic relief. My soul is  crushed.)
 
 All things must come to an end—even a child's dream. Yes, I am sad. But then again, rarely am I not. What's another heartbreak?
-
+<br>
 <div class="row mt-3 text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 60%; margin: auto;">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 80%; margin: auto;">
         {% include figure.html path="assets/img/Memorial/THEFINALE.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption"><i>Rest Easy, Sweet Prince...</i> (Oct. 2021-Dec. 2024)</div>        
     </div>
