@@ -168,6 +168,6 @@ All things must come to an end—even a child's dream. Yes, I am sad. But then a
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0" style="max-width: 60%; margin: auto;">
         {% include figure.html path="assets/img/Memorial/THEFINALE.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-        <div class="caption"><i>Rest Easy, Sweet Prince...</i> (Oct. 2021 - Dec. 2024)</div>        
+        <div class="caption"><i>Rest Easy, Sweet Prince...</i> (Oct. 2021-Dec. 2024)</div>        
     </div>
 </div>
