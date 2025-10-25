@@ -146,7 +146,7 @@ The Classic OG.
 </div>
 
 ### Flip Knife - SADEVILLIAN
-Supplied to me by my good friend and gay lover, whose own connection to the knife is long and deep. This is the second unofficial fan album(s).
+Supplied to me by my good friend <s>and gay lover</s>, whose own connection to the knife is long and deep. This is the second unofficial fan album(s).
 
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0" style="max-width: 35%; margin: auto;">
@@ -171,3 +171,10 @@ All things must come to an end—even a child's dream. Yes, I am sad. But then a
         <div class="caption"><i>Rest Easy, Sweet Prince...</i> (Oct. 2021-Dec. 2024)</div>        
     </div>
 </div>
+
+### OCTOBER 2025 UPDATE!!!
+A lot of time has passed, and I have sold the remainder of my skins due to needing the money irl. Well, the 2008 equivalent of CS2 just happened. And while people were lining up to jump out of the office window, I remembered the cool hundo I had lying around in my CSfloat account from selling my last item—my 5-7 "Pussy Destroyer"—the same 5-7 I only got because another good friend of mine (and current gay lover) has conviced me to get it for $20(!)
+*pictures of the 5-7*
+I guess after all the pathetic self-depricating whining and sobbing this whole ordeal has saved me from the crash, and even allowed me to complete the collection after all, in a "the prophecy is fullfilled" kinda way... Which is cool.
+
+I shan't celebrate too much, though. After all it is not proper to make very glad of someone else's loss. My heart goes out to those who were inflicted.
