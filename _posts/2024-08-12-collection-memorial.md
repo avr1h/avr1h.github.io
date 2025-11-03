@@ -74,8 +74,8 @@ If DANGERDOOM's "The Mouse & The Mask" could be summarized with one word, it wou
     </div>
 </div>
 
-### Bayonet - MADVILLIAN
-Something about the sprazzatura of the Bayonet's animation screams perfection to me. GOAT knife? Could be, but Madvilliany sure is a GOAT album.
+### Bayonet - MADVILLAIN
+Something about the sprazzatura of the Bayonet's animation screams perfection to me. GOAT knife? Could be, but Madvillainy sure is a GOAT album.
 
 <div class="row mt-3 text-center">
     <div class="col-sm mt-3 mt-md-0" style="max-width: 35%; margin: auto;">
