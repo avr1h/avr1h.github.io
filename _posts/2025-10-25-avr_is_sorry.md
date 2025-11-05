@@ -6,7 +6,7 @@ description: "A new IG page experiment."
 permalink: /avr_is_sorry/
 tags: news
 ---
-###  Behind The New IG Account <a href="[@avr_is_sorry](https://www.instagram.com/avr_is_sorry/)"</a>
+###  Behind The New IG Account [@avr_is_sorry](https://www.instagram.com/avr_is_sorry/)"
 The idea of a content creator apologizing online has always fascinated me.
 
 A content creator—someone viewed mostly through the hyper-edited lens of their content—is often held in godlike regard by their audience. It’s easy to forget, especially for those with parasocial inclinations, that the creator is human too: with human errors, vices, and all.
