@@ -86,9 +86,9 @@ document.addEventListener("DOMContentLoaded", function() {
     "The only true wisdom is in knowing you know nothing.",
     "A man chooses, a slave obeys.",
     "One thinks, therefore one is.",
-    "All animals are equal, but some animals are more equal than others."
+    "All animals are equal, but some animals are more equal than others.",
     "The world is my idea.",
-    "All that we are is the result of what ee have thought." ,
+    "All that we are is the result of what ee have thought.",
     "The measure of a man is what he does with power.",
     "The only real failure in life is not to be true to the best one knows.",
     "Common sense is not so common.",
