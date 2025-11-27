@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
     "Doh!",
     "Ālea iacta est.",
     "nomen est omen.",
-    "credat iudaeus Apella, non ego."
+    "credat iudaeus Apella, non ego.",
     "I love you.",
     "You wouldn't get it. 🚬",
     "O James! Eu Quero Uma Salada de Fruta, James! 🍌🍏🍇🍓",
