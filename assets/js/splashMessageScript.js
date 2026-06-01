@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
     "e^πi=1",
     "Chaotically neutral to his detriment.",
     "¯\\_(ツ)_/¯",
-    "My enemies are plenty, my equals are non.",
+    "My enemies are plenty, my equals are none.",
     "Does he ever shut up?",
     "Oxford comma elitist",
     "Please love me back...",
